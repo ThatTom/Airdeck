@@ -1,4 +1,4 @@
-<link rel="shortcut icon" type="image/x-icon" href="githubimage.png">
+<link rel="shortcut icon" type="image/x-icon" href="airdeckicon.png">
 
 [![Airdeck](githubimage.png "Airdeck")](https://github.com/ThatTom/Airdeck)
 
