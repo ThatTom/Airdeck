@@ -1,5 +1,7 @@
 # Airdeck
 
+[![Airdeck](https://github.com/ThatTom/Airdeck/blob/master/github%20image.png "Airdeck")](https://github.com/ThatTom/Airdeck)
+
 #### What is Airdeck?
 
 Airdeck is a tool designed to allow XPlane simulator enthusiasts with an Elgato Streamdeck the chance to make a fully customised configuration with integration into the simulator with little experience in programming or design skill (Like me). This was originally created as a small project to allow interaction from my Streamdeck into XPlane 11 after starting to take the simulator more seriously and soon realised that this could be used by so many more Virtual Pilots. I will be planning to update the script greatly in the future and any suggestions/concerns are greatly received. Airdeck has also been designed to allow for one person to create the functionality and design and then share it with others very easily. At the time of writing this, the Airdeck currently requires NodeJS and as a result, would require it to be installed however I hope to make the process of using the Airdeck even easier in the future and currently instructions are provided below for the full install and setup of everything required.
