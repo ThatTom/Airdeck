@@ -11,6 +11,10 @@ Airdeck is a tool designed to allow XPlane simulator enthusiasts with an Elgato 
 * [ExtPlaneJs](https://github.com/wadedos/ExtPlaneJs)
 * [node-elgato-stream-deck](https://github.com/Lange/node-elgato-stream-deck)
 
+### Aircraft Panel
+
+Each Aircraft that you want to create a panel for requires a .json file which will include the individual folders, each keys specification and the configuration for the aircraft as well. Below is a basic example of the required structure and a full version can be found here.
+
 ### Included Airdeck Functions
 
 Airdeck currently includes 6 functions in total these are: Single, Single Hold, Dual, Dual Varible, Folder and Aircraft. Each has it's own function to allow for full customisation.
