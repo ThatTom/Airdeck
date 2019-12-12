@@ -68,8 +68,8 @@ The dual function is used when a single button requires two functions, for examp
   }
 }
  ```
- 
- ##### Dual Variable
+
+##### Dual Variable
 
 The dual variable function is used when a single button requires two functions and requires the state to be changed from a datref inside of XPlane. An example of this would be master caution, the function works by updating the state of the key on the Dataref change in-game to either on or off. This allows for two separate images or functions in the two states and functions or images can be the same in each.
 
