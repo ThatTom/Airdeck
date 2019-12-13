@@ -40,7 +40,7 @@ The single function is used for commands which you want to run when the key is p
 ``` 
 "{KEY ID 0 - 14}":
 {
-  "image": "{Image Loocation}",
+  "image": "{Image Location}",
   "type": "single",
   "function": "{Command you wish to run in XPlane}"
  }
@@ -92,9 +92,22 @@ The dual variable function is used when a single button requires two functions a
 }
  ```
  
+##### Folder
+
+The folder function allows you to change the current folder within the aircraft to the one specified in the function,  
+
+``` 
+"{KEY ID 0 - 14}":
+{
+  "image": "{Image Location}",
+  "type": "folder",
+  "function": "{Folder Name}"
+}
+ ```
+ 
 ### Installation
 
-Although every effort is made and is still being made to make Airdeck as easy to use as possible some installation is still required, all steps required for the installation can be found [here](https://github.com/ThatTom/Airdeck/wiki/Installation). These will be kept as up to date as is possible but if you do notice any errors or have any issues installing Arideck at any time then please join the [Discord](https://discord.gg/wCrFWDx) and don't hesitate to ask.
+Although every effort is made and is still being made to make Airdeck as easy to use as possible some installation is still required, all steps required for the installation can be found [here](https://github.com/ThatTom/Airdeck/wiki/Installation). These will be kept as up to date as is possible but if you do notice any errors or have any issues installing Arideck at any time then please join the [discord](https://discord.gg/wCrFWDx) and don't hesitate to ask or say.
  
 ### Known Issues
 
